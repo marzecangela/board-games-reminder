@@ -1,2 +1,2 @@
-# board-games
+# board-games-reminder
 Board Games Statistics
